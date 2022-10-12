@@ -2,7 +2,7 @@
 
 This is a <b>REST API</b> built using <b><i>Django REST framework (DRF)</i></b>. 
 
-This REST API has several features including :-
+This REST API has several features including :-  
 ⭐ User creation and viewing existing users   
 ⭐ To hide password on API call  
 ⭐ To hash the password  
