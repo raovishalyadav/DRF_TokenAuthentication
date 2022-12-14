@@ -1,6 +1,6 @@
 # DjangoRestApi
 
-This is a <b>REST API</b> built using <b><i>Django REST framework (DRF)</i></b>. 
+This is a <b>REST API</b> built using <b><i>Django REST framework (DRF)</i></b> with DRF's Token Authentication. 
 
 This REST API has several features including :-  
 ⭐ User creation and viewing existing users   
